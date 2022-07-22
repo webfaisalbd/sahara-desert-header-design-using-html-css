@@ -36,3 +36,9 @@ flex: 1;
 text-align: right;
 }
 
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  margin-left: 60px;
+}
+
