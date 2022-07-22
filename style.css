@@ -87,6 +87,7 @@ button {
 
 
 
+
 .card {
   width: 200px;
   height: 230px;
@@ -96,9 +97,25 @@ button {
   box-sizing: border-box;
   cursor: pointer;
   margin: 10px 15px;
-  background-image: url(images/westernDesert.jpg);
   background-position: center;
   background-size: cover;
+  
+
 }
 
+.card1 {
+  background-image: url(images/westernDesert.jpg);
+}
+
+.card2 {
+  background-image: url(images/kalahariDesert.jpg);
+}
+
+.card3 {
+  background-image: url(images/alBagawat.jpg);
+}
+
+.card4 {
+  background-image: url(images/pyramidOfGiza.jpg);
+}
 
