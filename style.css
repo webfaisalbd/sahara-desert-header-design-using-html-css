@@ -99,7 +99,7 @@ button {
   margin: 10px 15px;
   background-position: center;
   background-size: cover;
-  
+  transition: transform 0.5s;
 
 }
 
@@ -118,4 +118,10 @@ button {
 .card4 {
   background-image: url(images/pyramidOfGiza.jpg);
 }
+
+
+.card:hover{
+  transform: translateY(-10px);
+}
+
 
