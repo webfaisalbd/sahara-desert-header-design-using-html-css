@@ -59,3 +59,15 @@ nav ul li a {
 .col {
   flex-basis: 50%;
 }
+
+
+h1 {
+  color: #fff;
+  font-size: 100px;
+}
+
+p {
+  color: #fff;
+  font-size: 13px;
+  line-height: 15px;
+}
